@@ -57,6 +57,7 @@
 
 #### Скріншоти з Power BI 
 P.S: За бажання інтерактивний дашборд в папці `Dashboadr` можна перевірити,завантаживши файл та відкривши його в Power BI Desktop
+
 <img width="489" height="278" alt="image" src="https://github.com/user-attachments/assets/56155cd0-0bdc-4ebf-bb9c-ae696edc0003" />
 <img width="494" height="284" alt="image" src="https://github.com/user-attachments/assets/f89e4063-e04f-4e1f-aa89-cfec91216ea0" />
 <img width="493" height="281" alt="image" src="https://github.com/user-attachments/assets/b3c46bc3-bcf5-436d-93d7-7178de917fde" />
